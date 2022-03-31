@@ -8,6 +8,6 @@ public class HelloWorldController
 public String hello() 
 {
 return "<h1> Congratulations. You have successfully deployed the sample Spring Boot Application.</h1>"
-+ "<h1> Felicitaciones. Has desplegado la aplicaci&oacute;n de muestra de Spring Boot con &eeacute;xito.</h1>";
++ "<h1> Felicitaciones. Has desplegado la aplicaci&oacute;n de muestra de Spring Boot con &eacute;xito.</h1>";
 }
 }
